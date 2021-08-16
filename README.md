@@ -3,19 +3,19 @@
 <p align="center">
   <img alt="Made by" src="https://img.shields.io/badge/made%20by-Morpa%20-%2356BEB8">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/morpa/Next-Boilerplate.svg?color=56BEB8">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/morpa/My-Trips.svg?color=56BEB8">
 
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/morpa/Next-Boilerplate.svg?color=56BEB8">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/morpa/My-Trips.svg?color=56BEB8">
 
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Morpa/Next-Boilerplate?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Morpa/My-Trips?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Morpa/Next-Boilerplate?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Morpa/My-Trips?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Morpa/Next-Boilerplate?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Morpa/My-Trips?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Morpa/Next-Boilerplate?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Morpa/My-Trips?color=56BEB8">
 
-  <img alt="CI" src="https://github.com/Morpa/boilerplate/workflows/ci/badge.svg?color=56BEB8">
+  <img alt="CI" src="https://github.com/Morpa/My-Trips/workflows/ci/badge.svg?color=56BEB8">
 
 </p>
 
