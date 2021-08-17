@@ -1,7 +1,5 @@
 import { MapContainer, TileLayer, Marker } from 'react-leaflet'
 
-/* import * as S from './styles' */
-
 type Place = {
   id: string
   name: string
@@ -12,7 +10,7 @@ type Place = {
   }
 }
 
-type MapProps = {
+export type MapProps = {
   places?: Place[]
 }
 
