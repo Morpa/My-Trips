@@ -11,7 +11,8 @@
     "test": "jest",
     "test:watch": "yarn test --watch",
     "generate": "yarn plop --plopfile generators/plopfile.js",
-    "postinstall": "husky install"
+    "postinstall": "husky install",
+    "codegen": "graphql-codegen --config codegen.yml"
   },
   "lint-staged": {
     "src/**/*": [
@@ -34,6 +35,10 @@
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-typescript": "^7.15.0",
+    "@graphql-codegen/add": "^3.0.0",
+    "@graphql-codegen/cli": "2.0.1",
+    "@graphql-codegen/typescript": "2.0.0",
+    "@graphql-codegen/typescript-operations": "2.0.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@types/jest": "^27.0.1",
