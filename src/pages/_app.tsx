@@ -11,7 +11,6 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <DefaultSeo {...SEO} />
         <link rel="shortcut icon" href="/img/icon-512.png" />
         <link rel="apple-touch-icon" href="/img/icon-512.png" />
         <link rel="manifest" href="/manifest.json" />
@@ -22,6 +21,7 @@ function App({ Component, pageProps }: AppProps) {
           crossOrigin=""
         />
       </Head>
+      <DefaultSeo {...SEO} />
       <GlobalStyles />
       <NextNprogress
         color="#f231a5"
