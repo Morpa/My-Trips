@@ -20,6 +20,10 @@ function App({ Component, pageProps }: AppProps) {
           integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
           crossOrigin=""
         />
+        <meta
+          name="google-site-verification"
+          content="7B2zsyX4d4aviD42HO2alk4CNAplAk25PLE5UmQt-3E"
+        />
       </Head>
       <DefaultSeo {...SEO} />
       <GlobalStyles />
