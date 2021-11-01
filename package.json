@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@styled-icons/evaicons-outline": "^10.34.0",
-    "graphql": "^15.7.0",
+    "graphql": "^15.7.2",
     "graphql-request": "^3.6.1",
     "leaflet": "^1.7.1",
     "next": "11.1.2",
@@ -57,7 +57,7 @@
     "babel-loader": "^8.2.2",
     "babel-plugin-styled-components": "^1.13.3",
     "eslint": "^7.32.0",
-    "eslint-config-next": "^12.0.1",
+    "eslint-config-next": "^12.0.2",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.26.1",
