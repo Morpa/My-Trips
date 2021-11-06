@@ -45,7 +45,7 @@
     "@graphql-codegen/typescript": "2.3.0",
     "@graphql-codegen/typescript-operations": "2.2.0",
     "@next/eslint-plugin-next": "^12.0.1",
-    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^12.1.1",
     "@types/jest": "^27.0.2",
     "@types/leaflet": "^1.7.5",
