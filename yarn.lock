@@ -7015,10 +7015,10 @@ next-seo@^5.0.0:
   resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-5.0.0.tgz#8a5c82279edcbd74c4ce58efa5588528e47c0d72"
   integrity sha512-uCa8hoE5VQz4D2NqZAPhqR64hY5LSmaq70wmfGK09U57TMY7XzsDI+MjfZo0MgHJM87bj3Fd/oMQbDcZ/YWhJQ==
 
-next-sitemap@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-2.0.2.tgz#a4a57ba630f1ffaed9c88e513dd25fcf47a81bbf"
-  integrity sha512-7k2zPQYWsSX+Yd7tvJVxHYA/lDZX2Vg+bG0hSRz2UYte9KmPatJ5+FHhcK82hAADokcBcIBSMx3qT33I4hzRbg==
+next-sitemap@^2.1.13:
+  version "2.1.13"
+  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-2.1.13.tgz#1772e9f0eae07d4b1c3194654b84e6579c05a95c"
+  integrity sha512-gybyH7ylRiwgRakI81++Hx6a+LUl7tkcmcsjNJA0L0t95lk3gc0OYHH9siV+JMdytd4lag5ue8E8iMGKJ06Q/Q==
   dependencies:
     "@corex/deepmerge" "^2.6.148"
     minimist "^1.2.5"
