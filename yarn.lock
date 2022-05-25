@@ -6329,10 +6329,10 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lint-staged@^12.3.7:
-  version "12.3.7"
-  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-12.3.7.tgz#ad0e2014302f704f9cf2c0ebdb97ac63d0f17be0"
-  integrity sha512-/S4D726e2GIsDVWIk1XGvheCaDm1SJRQp8efamZFWJxQMVEbOwSysp7xb49Oo73KYCdy97mIWinhlxcoNqIfIQ==
+lint-staged@^12.4.2:
+  version "12.4.2"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-12.4.2.tgz#380a5ec5a7a23caa9420972b0f98c8192afddecd"
+  integrity sha512-JAJGIzY/OioIUtrRePr8go6qUxij//mL+RGGoFKU3VWQRtIHgWoHizSqH0QVn2OwrbXS9Q6CICQjfj+E5qvrXg==
   dependencies:
     cli-truncate "^3.1.0"
     colorette "^2.0.16"
@@ -6771,10 +6771,10 @@ next-seo@^5.4.0:
   resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-5.4.0.tgz#37a7784b30b3f70cec3fa0d77f9dde5990822d24"
   integrity sha512-R9DhajPwJnR/lsF2hZ8cN8uqr5CVITsRrCG1AF5+ufcaybKYOvnH8sH9MaH4/hpkps3PQ9H71S7J7SPYixAYzQ==
 
-next-sitemap@^2.5.21:
-  version "2.5.21"
-  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-2.5.21.tgz#ab3be9c99a7ce4687c331cef9e207130cb3af04c"
-  integrity sha512-YlqoGd8Ej3EUgxWYOwvKr84uzstgGurFiLXyZgvi9mdSlRwJW++odwlCPco5qdthX806jzasJwcNPIW45AnXRg==
+next-sitemap@^2.5.25:
+  version "2.5.25"
+  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-2.5.25.tgz#63cecd19b85657109bc6420d75e2cbdbab029a6d"
+  integrity sha512-0YB6VnawGxXu9B/pppJ35vwGUQb6T004zVtAsfxb/KrDPXo/BM6QtuZO25WDmCL56HSlSvgPOderPKdsgLYqZg==
   dependencies:
     "@corex/deepmerge" "^2.6.148"
     minimist "^1.2.6"

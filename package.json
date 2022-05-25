@@ -30,7 +30,7 @@
     "next": "12.0.8",
     "next-pwa": "^5.4.7",
     "next-seo": "^5.4.0",
-    "next-sitemap": "^2.5.21",
+    "next-sitemap": "^2.5.25",
     "nextjs-progressbar": "^0.0.13",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -65,7 +65,7 @@
     "husky": "^7.0.4",
     "jest": "^27.5.1",
     "jest-styled-components": "^7.0.8",
-    "lint-staged": "^12.3.7",
+    "lint-staged": "^12.4.2",
     "plop": "^3.0.5",
     "prettier": "^2.6.2",
     "typescript": "^4.6.3"
