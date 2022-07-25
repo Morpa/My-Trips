@@ -42,7 +42,7 @@
     "@babel/preset-typescript": "^7.16.7",
     "@graphql-codegen/add": "^3.2.0",
     "@graphql-codegen/cli": "2.8.0",
-    "@graphql-codegen/typescript": "2.6.0",
+    "@graphql-codegen/typescript": "2.7.2",
     "@graphql-codegen/typescript-operations": "2.5.2",
     "@next/eslint-plugin-next": "^12.1.6",
     "@testing-library/jest-dom": "^5.16.4",
