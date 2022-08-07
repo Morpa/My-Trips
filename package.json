@@ -27,7 +27,7 @@
     "graphql": "^16.5.0",
     "graphql-request": "^4.2.0",
     "leaflet": "^1.8.0",
-    "next": "12.2.0",
+    "next": "12.2.4",
     "next-pwa": "^5.5.4",
     "next-seo": "^5.4.0",
     "next-sitemap": "^2.5.28",
@@ -38,7 +38,7 @@
     "styled-components": "5.3.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.9",
+    "@babel/core": "^7.18.10",
     "@babel/preset-typescript": "^7.16.7",
     "@graphql-codegen/add": "^3.2.0",
     "@graphql-codegen/cli": "2.8.0",
